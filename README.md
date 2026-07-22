@@ -6,9 +6,8 @@ An interactive **Power BI dashboard** built using **Power BI, SQL, and Excel** t
 
 ## 📸 Dashboard Preview
 
-> **Add your dashboard screenshot here**
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](https://github.com/saifsamad14/BlinkIT-Sales-Performance-Dashboard/blob/main/Images/Blinkit%20Dashboard.png)
 
 ---
 
