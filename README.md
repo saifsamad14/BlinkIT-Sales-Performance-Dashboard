@@ -88,6 +88,19 @@ This project uses the publicly available BlinkIT Grocery Sales dataset for educa
 
 ---
 
+### Additional Dashboard View
+
+![BlinkIT Sales Dashboard - Analysis View](Images/Blinkit%20Dashboard%203.png)
+
+---
+
+## 🎥 Dashboard Demo
+
+Click the link below to watch the interactive dashboard walkthrough:
+
+▶️ **[Watch Dashboard Demo](https://github.com/saifsamad14/BlinkIT-Sales-Performance-Dashboard/blob/main/Images/Blinkit%20dashboard%20vid.mp4)**
+
+
 ## 👨‍💻 Author
 
 **Saif Samad**
